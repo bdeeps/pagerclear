@@ -1,0 +1,692 @@
+{
+  "title": "The history of the pager",
+  "tagline": "70 years from a doctor's radio bleep to India's pager boom, and the hospitals that still carry one.",
+  "intro": "After the Second World War, engineers shrank radios into things you could carry. The pager was the simplest: a receiver that beeped when someone wanted you. It spread from hospitals to business people to teenagers, learned to show numbers and then words, and for a few years in the 1990s it was how cities from Tokyo to Mumbai stayed in touch. Mobile phones and SMS replaced it for most people, but where a message must get through, many still wear one.",
+  "eras": [
+    {
+      "id": "radio",
+      "name": "Radio calls for doctors",
+      "from": 1949,
+      "to": 1963,
+      "color": "#c49bff",
+      "summary": "Al Gross's first telephone pager, the hospital 'bleep' in London and New York, and Motorola's name for it."
+    },
+    {
+      "id": "tones",
+      "name": "Tones, numbers and a common code",
+      "from": 1964,
+      "to": 1989,
+      "color": "#ffb547",
+      "summary": "Consumer tone pagers, Japan's Pocket Bell, the POCSAG standard, and screens for numbers and then words."
+    },
+    {
+      "id": "boom",
+      "name": "The pager boom",
+      "from": 1990,
+      "to": 2000,
+      "color": "#ff7a59",
+      "summary": "Tens of millions of pagers worldwide, faster codes, two-way paging, and India's short, fast boom."
+    },
+    {
+      "id": "after",
+      "name": "Mobiles take over, hospitals hold on",
+      "from": 2001,
+      "to": 2026,
+      "color": "#5ce1a9",
+      "summary": "SMS and cheap mobiles replace pagers for most people, but hospitals and emergency crews keep them."
+    }
+  ],
+  "events": [
+    {
+      "year": 1949,
+      "date": "1949",
+      "era": "radio",
+      "art": "pager",
+      "key": true,
+      "title": "The first telephone pager",
+      "who": "Al Gross",
+      "where": "United States",
+      "country": "United States",
+      "text": "Al Gross, who had already built walkie-talkies, turned his two-way radios into one-way receivers that could signal a person from a telephone. He aimed it at doctors, who at first worried the beeping would upset patients.",
+      "why": "It set the pattern for every pager since: a pocket receiver that is called, not a phone that calls.",
+      "box": "anatomy",
+      "sources": [
+        1,
+        0,
+        2
+      ]
+    },
+    {
+      "year": 1950,
+      "date": "1950",
+      "era": "radio",
+      "art": "building",
+      "title": "Doctors on call in New York",
+      "who": "Al Gross and New York's Jewish Hospital",
+      "where": "New York City",
+      "country": "United States",
+      "text": "New York City's Jewish Hospital began using Gross's paging system in 1950, one of the first practical paging services, for physicians who needed to be reached anywhere in the building.",
+      "why": "Hospitals became paging's first and most loyal customers.",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1956,
+      "date": "1956",
+      "era": "radio",
+      "art": "building",
+      "key": true,
+      "title": "The first hospital radio 'bleep'",
+      "who": "Multitone Electric Company",
+      "where": "St Thomas' Hospital, London",
+      "country": "United Kingdom",
+      "text": "Multitone, founded by the inventor Joseph Poliakoff, installed a closed-loop radio paging system at St Thomas' Hospital in London. Doctors carried small receivers that bleeped when they were wanted, instead of being called over loudspeakers.",
+      "why": "Britain's doctors still call a pager a 'bleep' because of it.",
+      "sources": [
+        3,
+        4
+      ]
+    },
+    {
+      "year": 1959,
+      "date": "1959",
+      "era": "radio",
+      "art": "word",
+      "title": "The word 'pager'",
+      "who": "Motorola",
+      "where": "Chicago area",
+      "country": "United States",
+      "text": "Motorola is credited with first using the word 'pager' for its personal radio receivers in 1959. Early models did not sell well.",
+      "why": "It named a whole category of device.",
+      "sources": [
+        2,
+        0
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "c. 1960",
+      "era": "radio",
+      "art": "chip",
+      "title": "A pager built with transistors",
+      "who": "John F. Mitchell's team at Motorola",
+      "where": "Chicago area",
+      "country": "United States",
+      "text": "Motorola engineers under John F. Mitchell combined ideas from walkie-talkies and car radios to make a transistorised pager, small enough to carry. The same team later helped build the first handheld mobile phone.",
+      "why": "Transistors made pagers pocket-sized and battery-friendly.",
+      "sources": [
+        0,
+        5
+      ]
+    },
+    {
+      "year": 1962,
+      "date": "1962",
+      "era": "radio",
+      "art": "telephone",
+      "title": "Bellboy at the World's Fair",
+      "who": "Bell System",
+      "where": "Seattle World's Fair",
+      "country": "United States",
+      "text": "The Bell System showed its Bellboy radio paging system at the Seattle World's Fair. A beep told the wearer to find a telephone and call in.",
+      "why": "The phone company itself was now selling paging to the public.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1964,
+      "date": "1964",
+      "era": "tones",
+      "art": "pager",
+      "key": true,
+      "title": "Pageboy I, the first consumer pager",
+      "who": "Motorola",
+      "where": "United States",
+      "country": "United States",
+      "text": "Motorola's Pageboy I was a tone-only pager with no screen and no memory. When it beeped, the wearer knew to call the office or go straight to the emergency room. Some accounts date its launch as late as 1974.",
+      "why": "It began Motorola's decades as the world's biggest pager maker.",
+      "box": "anatomy",
+      "sources": [
+        2,
+        6,
+        23
+      ]
+    },
+    {
+      "year": 1968,
+      "date": "1968",
+      "era": "tones",
+      "art": "pager",
+      "title": "Japan's Pocket Bell",
+      "who": "Nippon Telegraph and Telephone (NTT)",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "NTT started a pager service in Japan, later nicknamed pokeberu, from 'pocket bell'. It would run in some form for 51 years.",
+      "why": "Japan became one of the world's biggest pager markets.",
+      "sources": [
+        19,
+        21
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "tones",
+      "art": "digital",
+      "title": "A code for all pagers",
+      "who": "Post Office Code Standardisation Advisory Group (POCSAG)",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "The British Post Office, then running the UK's phones, gathered engineers from several companies to design a common digital code for paging, so any maker's pager could work on any network.",
+      "why": "A shared standard let paging spread across countries.",
+      "box": "pocsag",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "early 1980s",
+      "era": "tones",
+      "art": "digital",
+      "title": "Pagers get a number screen",
+      "who": "Pager makers",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Numeric pagers added a small display that showed the caller's phone number. Around 1980 there were said to be about 3.2 million pagers in use worldwide.",
+      "why": "You no longer had to phone the office just to find out who wanted you.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1981,
+      "date": "February 1981",
+      "era": "tones",
+      "art": "digital",
+      "key": true,
+      "title": "POCSAG becomes a world standard",
+      "who": "CCIR (now ITU-R)",
+      "where": "Geneva",
+      "country": "Switzerland",
+      "text": "The international radio committee accepted the Post Office code as Radiopaging Code No. 1, later ITU-R Recommendation M.584. It sends 32-bit codewords with 10 check bits, in batches of 8 frames, at 512 bits a second, later 1,200 and 2,400.",
+      "why": "The same code, sync word and error correction are still used today.",
+      "box": "pocsag",
+      "sources": [
+        7,
+        22
+      ]
+    },
+    {
+      "year": 1985,
+      "date": "mid-1980s",
+      "era": "tones",
+      "art": "word",
+      "title": "Whole words on the screen",
+      "who": "Pager makers",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "Alphanumeric pagers could show letters as well as numbers, so a pager could carry a short text message typed by an operator.",
+      "why": "Pagers became the first mass-market way to receive text on the move.",
+      "box": "anatomy",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1992,
+      "date": "July 1992",
+      "era": "boom",
+      "art": "scales",
+      "title": "India auctions paging licences",
+      "who": "Department of Telecommunications",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "India's DoT invited bids for private paging services in 27 cities, with up to four operators in the largest. Disputes and clarifications delayed the launch by about three years.",
+      "why": "It was one of India's first steps in opening telecoms to private companies.",
+      "box": "india",
+      "sources": [
+        12,
+        15
+      ]
+    },
+    {
+      "year": 1993,
+      "date": "1993",
+      "era": "boom",
+      "art": "chip",
+      "title": "FLEX: faster paging",
+      "who": "Motorola",
+      "where": "United States",
+      "country": "United States",
+      "text": "Motorola announced FLEX, a paging code that could send up to 6,400 bits a second using four-level FSK, with a 4-minute cycle of 128 frames so pagers could sleep even longer.",
+      "why": "Faster codes let one channel serve millions more pagers.",
+      "sources": [
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "boom",
+      "art": "earth",
+      "key": true,
+      "title": "61 million pagers",
+      "who": "Pager users worldwide",
+      "where": "Worldwide",
+      "country": "Worldwide",
+      "text": "By 1994 about 61 million pagers were reported to be in use around the world, up from about 3.2 million in 1980.",
+      "why": "Paging had become the world's mobile messaging system, before SMS.",
+      "sources": [
+        2
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "March 1995",
+      "era": "boom",
+      "art": "pager",
+      "key": true,
+      "title": "Paging begins in India",
+      "who": "Licensed paging operators",
+      "where": "Indian cities",
+      "country": "India",
+      "text": "India's first licensed paging service started in 1995, and circle licences for the rest of the country followed. Motorola was reported to supply about 80% of the pagers.",
+      "why": "For a few years, a pager was India's most affordable mobile connection.",
+      "box": "india",
+      "sources": [
+        12,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "31 July 1995",
+      "era": "boom",
+      "art": "phone",
+      "title": "India's first mobile call",
+      "who": "Jyoti Basu and Sukh Ram",
+      "where": "Kolkata",
+      "country": "India",
+      "text": "West Bengal's chief minister made India's first mobile phone call. Early tariffs were about ₹16.80 a minute at peak, and incoming calls were charged too.",
+      "why": "Mobiles were pagers' future rivals, but at first they were far too costly for most.",
+      "box": "india",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1995,
+      "date": "1995",
+      "era": "boom",
+      "art": "phone",
+      "title": "The first two-way pager",
+      "who": "Motorola",
+      "where": "United States",
+      "country": "United States",
+      "text": "Motorola extended FLEX into ReFLEX and launched the Tango, a pager that could send short replies as well as receive.",
+      "why": "Two-way paging foreshadowed the texting phones that replaced pagers.",
+      "sources": [
+        10,
+        11
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "May 1996",
+      "era": "boom",
+      "art": "pager",
+      "title": "2 lakh Indian subscribers",
+      "who": "Indian paging operators",
+      "where": "Indian cities",
+      "country": "India",
+      "text": "Barely a year after launch, India had about 200,000 pager subscribers. More than 95% of pagers sold were alphanumeric, against under 20% in richer markets, and most users were individuals rather than companies.",
+      "why": "It showed how badly Indians needed a way to be reached when landlines took months to install.",
+      "box": "india",
+      "sources": [
+        12
+      ]
+    },
+    {
+      "year": 1996,
+      "date": "c. 1995–1996",
+      "era": "boom",
+      "art": "digital",
+      "title": "Teenagers and number codes",
+      "who": "Pager users in Japan and elsewhere",
+      "where": "Japan",
+      "country": "Japan",
+      "text": "In Japan, more than 10 million Pocket Bells were in use at the peak, many carried by teenagers, who spelled out messages in number puns such as 14106 for 'aishiteru' (I love you).",
+      "why": "Pager codes were an early form of text-speak.",
+      "sources": [
+        19,
+        20
+      ]
+    },
+    {
+      "year": 1998,
+      "date": "March 1998",
+      "era": "boom",
+      "art": "pager",
+      "key": true,
+      "title": "India's pager peak",
+      "who": "Indian paging operators",
+      "where": "Indian cities",
+      "country": "India",
+      "text": "Subscribers in India's 27 licensed cities reached about 8.3 lakh, and fell to about 6.7 lakh a year later. Some later accounts put the peak nearer 20 lakh. A tribunal later dated the industry's decline from 1997–98.",
+      "why": "The boom was already turning as mobile phones got cheaper.",
+      "box": "india",
+      "sources": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "after",
+      "art": "phone",
+      "key": true,
+      "title": "India's pagers fade",
+      "who": "Indian paging operators",
+      "where": "India",
+      "country": "India",
+      "text": "By 2002 India had only about 5 lakh pager users. Mobiles that could send SMS for far less had become the everyday choice, and pagers lost their status appeal.",
+      "why": "Mobile phones did everything a pager did, and could talk back.",
+      "box": "india",
+      "sources": [
+        14,
+        15
+      ]
+    },
+    {
+      "year": 2003,
+      "date": "2003–2008",
+      "era": "after",
+      "art": "share",
+      "title": "Paging shrinks in the US",
+      "who": "US paging industry",
+      "where": "United States",
+      "country": "United States",
+      "text": "US paging revenue fell from about $6.2 billion in 2003 to about $2.1 billion in 2008 as mobile phones took over.",
+      "why": "Consumers left, but hospitals and emergency services stayed.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 2017,
+      "date": "2017",
+      "era": "after",
+      "art": "heart",
+      "key": true,
+      "title": "Hospitals still hold on",
+      "who": "Hospital-based clinicians",
+      "where": "United States",
+      "country": "United States",
+      "text": "A national survey of US hospital doctors and other clinicians found that about 80% were given a pager by their hospital, and pagers were the most common way they received patient messages.",
+      "why": "Reliable coverage indoors keeps pagers in hospitals.",
+      "box": "lasted",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "February 2019",
+      "era": "after",
+      "art": "pager",
+      "key": true,
+      "title": "The NHS told to drop pagers",
+      "who": "Matt Hancock, Health Secretary",
+      "where": "London",
+      "country": "United Kingdom",
+      "text": "England's NHS was reported to use about 130,000 pagers, around one in ten of those left in the world, at about £6.6 million a year. Hospitals were told to phase them out by the end of 2021, keeping some for emergencies such as a Wi-Fi failure.",
+      "why": "Even the bleep's birthplace began switching to phone apps.",
+      "box": "lasted",
+      "sources": [
+        17,
+        0
+      ]
+    },
+    {
+      "year": 2019,
+      "date": "September 2019",
+      "era": "after",
+      "art": "pager",
+      "title": "Japan's last pager service closes",
+      "who": "Tokyo Telemessage",
+      "where": "Tokyo",
+      "country": "Japan",
+      "text": "Tokyo Telemessage, the last paging company in Japan, ended its service in 2019. NTT had already stopped in 2007.",
+      "why": "It closed a 51-year chapter that began with NTT in 1968.",
+      "sources": [
+        19,
+        21
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "First telephone pager system",
+      "value": "1949",
+      "who": "Al Gross, United States"
+    },
+    {
+      "label": "First hospital radio paging ('bleep')",
+      "value": "1956",
+      "who": "Multitone, St Thomas' Hospital, London"
+    },
+    {
+      "label": "First consumer pager",
+      "value": "1964",
+      "who": "Motorola Pageboy I"
+    },
+    {
+      "label": "Pager code made a world standard",
+      "value": "1981",
+      "who": "POCSAG (Radiopaging Code No. 1)"
+    },
+    {
+      "label": "First two-way pager",
+      "value": "1995",
+      "who": "Motorola Tango"
+    },
+    {
+      "label": "First licensed paging in India",
+      "value": "1995",
+      "who": "Private operators in licensed cities"
+    }
+  ],
+  "people": [
+    {
+      "name": "Al Gross",
+      "life": "1918 – 2000",
+      "role": "Radio engineer and inventor",
+      "from": "Canada and United States",
+      "note": "Built early walkie-talkies and the first telephone pager, and won a Lemelson-MIT lifetime award in 2000."
+    },
+    {
+      "name": "Joseph Poliakoff",
+      "life": "1873 – 1959",
+      "role": "Engineer and founder of Multitone",
+      "from": "Russian Empire and England",
+      "note": "Made hearing aids and the induction loop; his company built the first hospital radio 'bleep'."
+    },
+    {
+      "name": "John F. Mitchell",
+      "life": "1928 – 2009",
+      "role": "Engineer and Motorola president",
+      "from": "United States",
+      "note": "Led the team that made a transistorised pager, and later backed the first handheld mobile phone."
+    }
+  ],
+  "series": [
+    {
+      "id": "india",
+      "title": "Pager subscribers in India",
+      "unit": "subscribers",
+      "log": false,
+      "after": "boom",
+      "caption": "India's pager boom rose fast after 1995 and was already falling by 1999, as reported at the time.",
+      "points": [
+        {
+          "year": 1996,
+          "value": 200000,
+          "label": "May 1996: about 2 lakh (Indian Techonomist)"
+        },
+        {
+          "year": 1998,
+          "value": 833000,
+          "label": "March 1998: 8.33 lakh in 27 cities (Voice&Data)"
+        },
+        {
+          "year": 1999,
+          "value": 670000,
+          "label": "March 1999: 6.70 lakh (Voice&Data)"
+        },
+        {
+          "year": 2002,
+          "value": 500000,
+          "label": "2002: about 5 lakh (ThePrint)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Every POCSAG pager still hunts for the same 32-bit sync word, 7CD215D8 in hexadecimal, agreed in 1981.",
+    "British doctors still call a pager a 'bleep', after the first hospital system at St Thomas' in 1956.",
+    "In 1996 more than 95% of India's pagers were alphanumeric, compared with under 20% in richer markets.",
+    "In 2019 England's NHS was reported to use about 130,000 pagers, around one in ten of those left in the world.",
+    "Japan's paging ran for 51 years, from NTT's start in 1968 to Tokyo Telemessage's close in 2019."
+  ],
+  "sources": [
+    {
+      "title": "Pager",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pager"
+    },
+    {
+      "title": "Al Gross (engineer)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al_Gross_(engineer)"
+    },
+    {
+      "title": "Why pagers still matter: the history of pagers",
+      "publisher": "Spok Inc.",
+      "url": "https://www.spok.com/blog/throwback-thursday-history-pagers/"
+    },
+    {
+      "title": "Our history",
+      "publisher": "Multitone",
+      "url": "https://www.multitone.com/our-history/"
+    },
+    {
+      "title": "Joseph Poliakoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Poliakoff"
+    },
+    {
+      "title": "John Francis Mitchell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Francis_Mitchell"
+    },
+    {
+      "title": "Motorola PageBoy I (1964-1975)",
+      "publisher": "Westport Tech Museum",
+      "url": "https://www.westporttechmuseum.com/products/motorola-pageboy-i-1964-1975"
+    },
+    {
+      "title": "POCSAG",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/POCSAG"
+    },
+    {
+      "title": "Motorola FLEX",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/FLEX_(protocol)"
+    },
+    {
+      "title": "Motorola expects FLEX protocol will become 'de facto' standard",
+      "publisher": "RCR Wireless News, 8 May 1995",
+      "url": "https://rcrwireless.com/19950508/carriers/motorola-expects-flex-protocol-will-become-de-facto-standard"
+    },
+    {
+      "title": "How do radio pagers work?",
+      "publisher": "Explain that Stuff",
+      "url": "https://www.explainthatstuff.com/howpagerswork.html"
+    },
+    {
+      "title": "ReFLEX",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/ReFLEX"
+    },
+    {
+      "title": "Easycall enthusiastic about India's pager boom, 15 May 1996",
+      "publisher": "The Indian Techonomist (Rishab Aiyer Ghosh)",
+      "url": "http://dxm.org/techonomist/15may96.html"
+    },
+    {
+      "title": "Paging",
+      "publisher": "Voice&Data",
+      "url": "https://www.voicendata.com/paging/"
+    },
+    {
+      "title": "Beep. Play. Repeat: How the pager pushed Indian professionals to become savvy",
+      "publisher": "ThePrint",
+      "url": "https://theprint.in/feature/brandma/beep-play-repeat-how-the-pager-pushed-indian-professionals-to-become-savvy/187207/"
+    },
+    {
+      "title": "Indian Paging Service Association vs Union of India, 12 April 2005",
+      "publisher": "Indian Kanoon (TDSAT order)",
+      "url": "https://indiankanoon.org/doc/1732106/"
+    },
+    {
+      "title": "1995: Mobile services come calling",
+      "publisher": "Business Today",
+      "url": "https://www.businesstoday.in/magazine/focus/year-1995-round-up/story/11660.html"
+    },
+    {
+      "title": "Health Secretary Matt Hancock orders ban on use of pagers by NHS staff before end of 2021",
+      "publisher": "Computer Weekly",
+      "url": "https://www.computerweekly.com/news/252458180/NHS-to-ban-use-of-pagers-by-end-of-2021-orders-Health-Secretary-Matt-Hancock"
+    },
+    {
+      "title": "Hospital-based clinicians' use of technology for patient care-related communication: a national survey",
+      "publisher": "Journal of Hospital Medicine (PubMed)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28699941/"
+    },
+    {
+      "title": "Japan's final pager service to end",
+      "publisher": "CNN",
+      "url": "https://www.cnn.com/2018/12/03/asia/japan-pagers-intl/index.html"
+    },
+    {
+      "title": "Numeric substitution in Japanese",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Numeric_substitution_in_Japanese"
+    },
+    {
+      "title": "Turn back the pages: Tokyo Telemessage to shut down Japan's last pager service in 2019",
+      "publisher": "TeleGeography CommsUpdate",
+      "url": "https://www.telegeography.com/products/commsupdate/articles/2018/12/10/turn-back-the-pages-tokyo-telemessage-to-shut-down-japans-last-pager-service-in-2019/"
+    },
+    {
+      "title": "Recommendation M.584: Codes and formats for radio paging",
+      "publisher": "ITU-R",
+      "url": "https://www.itu.int/rec/R-REC-M.584/en"
+    },
+    {
+      "title": "Motorola Pageboy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Motorola_Pageboy"
+    }
+  ]
+}

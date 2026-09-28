@@ -1,0 +1,126 @@
+{
+  "slug": "pagerclear",
+  "box": 72,
+  "question": "How does a pager work?",
+  "url": "https://glassbox-production-fd52.up.railway.app/e/pagerclear/",
+  "app": "https://glassbox-production-fd52.up.railway.app/pagerclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "70 years from a doctor's radio bleep to India's pager boom, and the hospitals that still carry one.\n\n1949: The first telephone pager\n1956: The first hospital radio 'bleep'\n1964: Pageboy I, the first consumer pager\n1981: POCSAG becomes a world standard\n1994: 61 million pagers\n1995: Paging begins in India\n\nThe full story, with 26 moments, sources and charts: glassbox-production-fd52.up.railway.app/e/pagerclear/history (link in bio)\n\nThen play with how it works: glassbox-production-fd52.up.railway.app/pagerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #pager #beeper #pocsag #paging #radio #errorcorrection #history",
+      "youtube": {
+        "title": "The history of the pager in 45 seconds #shorts",
+        "description": "70 years from a doctor's radio bleep to India's pager boom, and the hospitals that still carry one.\n\n1949 · The first telephone pager (Al Gross)\n1956 · The first hospital radio 'bleep' (Multitone Electric Company)\n1964 · Pageboy I, the first consumer pager (Motorola)\n1981 · POCSAG becomes a world standard (CCIR (now ITU-R))\n1994 · 61 million pagers (Pager users worldwide)\n1995 · Paging begins in India (Licensed paging operators)\n\n▶ Full history: https://glassbox-production-fd52.up.railway.app/e/pagerclear/history/\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/pagerclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "How does a pager work?\n\nBefore mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.\n\n→ Before mobiles, millions carried a pager: a pocket radio that only listens.\n→ Inside: a loop antenna, a receiver, a crystal, a decoder chip, a buzz motor and one AA battery.\n→ You phone the paging centre, and your message joins a queue.\n→ Tall towers shout it across the whole city at the same instant. Only one pager answers.\n→ Each letter becomes 7 bits, packed into 32-bit codewords with 10 bits of error checking.\n\nPlay with it yourself. It's free and open source: glassbox-production-fd52.up.railway.app/pagerclear (link in bio)\n\nBox No. 072 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #pager #beeper #pocsag #paging #radio #errorcorrection #bchcode #fsk #simulcast",
+    "carousel": "Swipe through: How does a pager work?\n\nBefore mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.\n\nSave this for later, then play with the interactive version at glassbox-production-fd52.up.railway.app/pagerclear (link in bio).\n\nBox No. 072 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #pager #beeper #pocsag #paging #radio #errorcorrection",
+    "youtube": {
+      "title": "How does a pager work? #shorts",
+      "description": "Before mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.\n\n▶ Play with it: https://glassbox-production-fd52.up.railway.app/e/pagerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/pagerclear\n\nBox No. 072 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "How does a pager work? (interactive explainer)",
+      "description": "Before mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.\n\n▶ Play with the interactive version: https://glassbox-production-fd52.up.railway.app/e/pagerclear/\n⌘ Source code (MIT): https://github.com/bdeeps/pagerclear\n\nIn this video:\n• A radio that only listens. A pager is a pocket receiver with a loop antenna, a crystal-tuned receiver, a decoder chip, a small LCD, a buzz motor and one AA battery.\n• One call, a whole city. You phoned a paging centre and an operator typed your words, or the centre read your keypad tones.\n• Words become codewords. In the POCSAG code each character is a 7-bit number, and bits are packed into 32-bit codewords: a flag, 20 message bits, 10 BCH check bits and a parity bit.\n• Ten bits that fix mistakes. Noise flips bits on the way.\n• Why pagers lasted. A pager listens only for the sync word and its own frame, so its radio is off about 80% of the time, and it never transmits.\n• India's short pager boom. India auctioned paging licences for 27 cities in 1992 and services began in 1995.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "How does a pager work?\n\nBefore mobiles, a beep on your belt meant someone needed you.\n\nPlay with it: https://glassbox-production-fd52.up.railway.app/e/pagerclear/",
+    "linkedin": "How does a pager work?\n\nBefore mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.\n\n1. A radio that only listens\n2. One call, a whole city\n3. Words become codewords\n4. Ten bits that fix mistakes\n5. Why pagers lasted\n6. India's short pager boom\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. 072 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox-production-fd52.up.railway.app/e/pagerclear/\nCode: https://github.com/bdeeps/pagerclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-09-28T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-09-28T04:46:41.965Z"
+}

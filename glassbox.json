@@ -1,0 +1,106 @@
+{
+  "slug": "pagerclear",
+  "box": 72,
+  "date": "2026-10-07",
+  "title": "PagerClear",
+  "question": "How does a pager work?",
+  "hook": "Before mobiles, a beep on your belt meant someone needed you. Open a 1990s pager in 3D, type a message into a real POCSAG encoder, add radio noise and watch ten check bits repair it.",
+  "thumbText": "HOW A PAGER WORKS",
+  "field": "internet",
+  "minutes": 12,
+  "tags": [
+    "pager",
+    "beeper",
+    "POCSAG",
+    "paging",
+    "radio",
+    "error correction",
+    "BCH code",
+    "FSK",
+    "simulcast",
+    "battery life",
+    "hospitals",
+    "India",
+    "1990s",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "A radio that only listens",
+      "text": "A pager is a pocket receiver with a loop antenna, a crystal-tuned receiver, a decoder chip, a small LCD, a buzz motor and one AA battery. It can't transmit, so it can't reply: it just waits for messages with its own address."
+    },
+    {
+      "title": "One call, a whole city",
+      "text": "You phoned a paging centre and an operator typed your words, or the centre read your keypad tones. The message was queued, coded and sent from several tall towers at the same instant (simulcast). Every pager hears every page; only the one with the matching address beeps."
+    },
+    {
+      "title": "Words become codewords",
+      "text": "In the POCSAG code each character is a 7-bit number, and bits are packed into 32-bit codewords: a flag, 20 message bits, 10 BCH check bits and a parity bit. After a 576-bit preamble come batches of a sync word and 8 frames, sent at 512, 1,200 or 2,400 bit/s by shifting the carrier 4.5 kHz up for 0 and down for 1."
+    },
+    {
+      "title": "Ten bits that fix mistakes",
+      "text": "Noise flips bits on the way. The pager re-computes the check bits, and the mismatch points to the wrong bits. POCSAG's BCH(31,21) code plus parity corrects up to 2 errors in each codeword and notices when there are more."
+    },
+    {
+      "title": "Why pagers lasted",
+      "text": "A pager listens only for the sync word and its own frame, so its radio is off about 80% of the time, and it never transmits. That stretches one AA cell to weeks or months. Strong VHF signals reach deep into buildings, which is why many hospitals and emergency crews still carry them."
+    },
+    {
+      "title": "India's short pager boom",
+      "text": "India auctioned paging licences for 27 cities in 1992 and services began in 1995. Pagers, over 95% alphanumeric, beat early mobiles that charged about ₹16.80 a minute even to receive. Subscribers peaked at around 8 lakh in 1998 by one count, then faded as mobiles and SMS got cheap."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Pager",
+      "def": "A small one-way radio receiver that shows short messages sent to its own address."
+    },
+    {
+      "term": "Simulcast",
+      "def": "Several transmitters sending the same signal at the same moment to cover a whole area."
+    },
+    {
+      "term": "POCSAG",
+      "def": "The pager code standardised in 1981: 32-bit codewords, sent in batches of a sync word and 8 frames."
+    },
+    {
+      "term": "Codeword",
+      "def": "32 bits: 21 information bits, 10 BCH check bits and 1 parity bit."
+    },
+    {
+      "term": "Address (RIC)",
+      "def": "A pager's own 21-bit number; its last 3 bits choose which of 8 frames it listens in."
+    },
+    {
+      "term": "FSK",
+      "def": "Frequency shift keying: sending 0s and 1s by nudging the radio frequency up or down."
+    },
+    {
+      "term": "BCH code",
+      "def": "An error-correcting code; POCSAG's BCH(31,21) with parity fixes up to 2 wrong bits per codeword."
+    },
+    {
+      "term": "Duty cycle",
+      "def": "The fraction of time a part is switched on; a pager's receiver is on about a fifth of the time."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "pagerclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
